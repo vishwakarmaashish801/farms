@@ -1,0 +1,206 @@
+body{
+    /* background: red; */
+    padding: auto;
+    margin-top: 160px;
+}
+.logo-top{
+    top:-25px;
+    width: 150px;
+    height:150px;
+    position: relative;
+}
+.navbar-menu{
+    margin-top:100px;
+    /* background:orange; */
+   
+}
+.get_img{
+    width:28px;
+}
+.btn-getouch{
+    float: right;
+  
+    width: 227px;
+    height:2.5rem;
+    border-radius: 22px;
+}
+.cart{
+    height:50px;
+}
+.search{
+    height:30px;
+    margin-top: 10px;
+}
+.nav-link {
+    width: 156px;
+  
+    font-size: 18px;
+    font-weight:bold;
+    display: block;
+    /* padding: 0.5rem 1rem; */
+    color: black;
+    text-decoration: none;
+    /* transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out; */
+}
+.img-fluid{
+    width:100%;
+    height:73vh;
+}
+
+.fixed-top{
+    background: white !important;
+
+}
+.quality{
+    justify-content: center;
+     
+}
+.qut-text-head{
+    font-size: 80px;
+   
+    font-size: larger;
+    font-weight: 600px;
+    color:blue ;
+}
+.qut-text{
+    align-content: center;
+    align-self: center;
+    
+}
+.box-bg{
+    width:100%;
+  
+   background-image: url('../images/containner milk.jpg');
+   background-repeat: no-repeat;
+ background-position: center;
+}
+.box{
+ display:flex;
+   justify-content: space-around;  
+   margin-top: 80px;
+}
+.box-content1 h4{
+    font-family: fantasy;
+} 
+
+.box-content1{
+    width: 250px;
+    height: 200px;
+    font-family:Arial, Helvetica, sans-serif;
+    /* background-color: aquamarine; */
+ 
+}
+
+.box-content2{
+    width: 250px;
+    height: 200px;
+    /* background-color:blue; */
+    
+}
+.summer-bg{
+    width:100%;
+  
+   background-image: url('../images/summer sale.jpg');
+   background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+.tajamilk{
+    justify-content: center;
+    align-items: center;
+}
+.summer{
+height:60vh;
+margin-left:15%;
+
+
+}
+.vertical-center {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .about{
+     float:right;
+  }
+  form{
+    float: right;
+       row-gap:20px;
+       margin: 52px;
+    
+  }
+  ::placeholder {
+    outline: none;
+    color:white;
+    border: none;
+    opacity: 1; /* Firefox */
+    padding: 5px;
+  }
+ input {
+        margin: 12px;
+        width: 229px;
+        outline: none;
+        background-color: grey;
+        border: none;
+        height: 35px;
+    }
+    textarea {
+        background-color: grey;
+        resize: vertical;
+        width: 508px;
+        justify-content: center;
+    }  
+    .profile{
+        display:flex;
+    justify-content: space-around;       
+ }
+    /* footer */
+    
+.footer{
+ 
+    margin-top: 180px;
+    margin-bottom:0px;
+    background: dimgrey;
+    background-image: url('../images/vibhuti-farms-logo-1.png');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:600px;
+ 
+
+}
+.footer-content{
+    margin-top: 200px;
+    background-color:red;
+  
+}
+.ft-nav-link{
+    color: white !important;
+}
+.freeshipping{
+    margin-top: -30px;
+}
+/* scrolling effect to topup going */
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 20px;
+    font-weight: 600;
+
+    border:bold;
+    outline: none;
+    background-color: #d3d3d4;
+    color: black;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 45px;
+  }
+.img-store{
+    width:250px;
+    height:100px;
+}
+  
