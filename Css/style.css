@@ -194,9 +194,10 @@ margin-left:15%;
     border:bold;
     outline: none;
     background-color: #d3d3d4;
+     background-color:white;
     color: black;
     cursor: pointer;
-    padding: 15px;
+    padding: 9px;
     border-radius: 45px;
   }
 .img-store{
